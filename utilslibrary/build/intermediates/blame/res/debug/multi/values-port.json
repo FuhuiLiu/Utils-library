@@ -1,0 +1,26 @@
+[
+    {
+        "outputFile": "/Users/aqcxbom/Projects/AndroidStudioProjects/MyApplication/utilslibrary/build/intermediates/incremental/mergeDebugResources/merged.dir/values-port/values-port.xml",
+        "map": [
+            {
+                "to": {
+                    "startLine": 2,
+                    "startColumn": 4,
+                    "startOffset": 55,
+                    "endColumn": 55,
+                    "endOffset": 106
+                },
+                "from": {
+                    "file": "/Users/aqcxbom/.android/build-cache/25d06d0db6f8cd96d9d6c3cc601666773dd7ab16/output/res/values-port/values-port.xml",
+                    "position": {
+                        "startLine": 2,
+                        "startColumn": 4,
+                        "startOffset": 55,
+                        "endColumn": 55,
+                        "endOffset": 106
+                    }
+                }
+            }
+        ]
+    }
+]
